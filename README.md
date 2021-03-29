@@ -1,4 +1,5 @@
 ## Project Name: DragApp
+ [![picture 2](./thumbnail.JPG)](https://sskumar4.github.io/dragApp/)
 
 ## Table of Contents
 
@@ -18,7 +19,7 @@
 An app to move and resize shapes inside the canvas. Users can connect two shapes using the lines.
 
 ##  3. <a name='Technologies'></a>Technologies 
-JavaScript, HTML 5, CSS, BootStrap
+JavaScript, HTML 5, CSS, BootStrap, Konva.js
 
 ##  4. <a name='Files'></a>Files
 Created the following 
