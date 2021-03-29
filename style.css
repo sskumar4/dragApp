@@ -1,6 +1,15 @@
-body {
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #f0f0f0;
-      }
+/* Styling the app */
+body{
+    margin: 50px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f0f0f0;
+    }
+section{
+  margin: 50px;
+  padding-top: 100px;
+}
+
+
+
+
